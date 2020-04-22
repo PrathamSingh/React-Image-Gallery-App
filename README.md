@@ -4,6 +4,8 @@ Chech the demo here for Material-UI App - https://react-image-gallery-app-using-
 
 Check the demo here for Tailwind CSS App-  https://react-image-gallery-app-using-tailwind-css.netlify.app/
 
+
+
 > React & Material UI app to find images utilizing the PixaBay API
 
 Register your API Key at
